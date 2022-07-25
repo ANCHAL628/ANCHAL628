@@ -17,7 +17,7 @@
 <img align="right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left">
 <a href="https://twitter.com/itsaccho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsaccho" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anchal pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchal pal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anchal-pal-413995200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anchal pal" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anchal_1171" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anchal_1171" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anchal_1171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anchal_1171" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anchal_1171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anchal_1171" height="30" width="40" /></a>
