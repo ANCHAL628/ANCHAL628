@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/itsaccho" target="blank"><img src="https://img.shields.io/twitter/follow/itsaccho?logo=twitter&style=for-the-badge" alt="itsaccho" /></a> </p>
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning ** : vue.js**
 
-- 💬 Ask me about **MERN,Data Structure and Algorithm**
+- 💬 Ask me about ** : MERN,Data Structure and Algorithm**
 
-- 📫 How to reach me **aanchapal70@gmail.com**
+- 📫 How to reach me ** : aanchapal70@gmail.com**
 
-- ⚡ Fun fact **I am Smilistic Person**
+- ⚡ Fun fact ** : I am Smilistic Person**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
