@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsaccho" target="blank"><img src="https://img.shields.io/twitter/follow/itsaccho?logo=twitter&style=for-the-badge" alt="itsaccho" /></a> </p>
 
-- 🌱 I’m currently learning : **vue.js**
+- 🌱 I’m currently learning : **Spring boot**
 
 - 💬 Ask me about : **MERN,Data Structure and Algorithm**
 
