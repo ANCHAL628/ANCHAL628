@@ -11,7 +11,7 @@
 
 - 📫 How to reach me : **aanchapal70@gmail.com**
 
-- ⚡ Fun fact : **I am Smilistic Person**
+- ⚡ Fun fact : **Going with the flow is literally what we need**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
